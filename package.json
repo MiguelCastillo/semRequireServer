@@ -1,0 +1,21 @@
+{
+  "name": "semRequireServer",
+  "version": "0.0.1",
+  "description": "SEM.js Modules & Dependencies with RequireJS Server",
+  "main": "main.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MiguelCastillo/semRequireServer.git"
+  },
+  "author": "Miguel Castillo <manchagnu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguelCastillo/semRequireServer/issues"
+  },
+  "homepage": "https://github.com/MiguelCastillo/semRequireServer",
+  "dependencies": {
+    "express": "3.x"
+  }
+}
