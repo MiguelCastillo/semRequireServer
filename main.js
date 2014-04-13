@@ -64,8 +64,7 @@ app.put("/messages/:id", function(req, res) {
 
 
 app.delete("/messages", function(req, res) {
-  messages = {};
-  res.send(messages);
+  res.send(200, "I told you not to call this interface!");
 });
 
 
