@@ -16,7 +16,9 @@
   },
   "homepage": "https://github.com/MiguelCastillo/semRequireServer",
   "dependencies": {
-    "express": "3.x"
+    "express": "3.x",
+    "spromise": "git://github.com/MiguelCastillo/spromise.git",
+    "nedb": ""
   },
   "engines": {
     "node": "0.10.x"
